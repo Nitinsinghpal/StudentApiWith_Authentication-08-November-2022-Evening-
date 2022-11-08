@@ -1,0 +1,332 @@
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.json
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.exe
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.deps.json
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.json
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.dev.json
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csprojAssemblyReference.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfoInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CoreCompileInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.Manifest.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.xml
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\scopedcss\bundle\StudentWebApI.styles.css
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.RazorTargetAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CopyComplete
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.genruntimeconfig.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.exe
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.deps.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.dev.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csprojAssemblyReference.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfoInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CoreCompileInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.Manifest.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.xml
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\scopedcss\bundle\StudentWebApI.styles.css
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.RazorTargetAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CopyComplete
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.genruntimeconfig.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.exe
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.deps.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.dev.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csprojAssemblyReference.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfoInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CoreCompileInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.Manifest.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.xml
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\scopedcss\bundle\StudentWebApI.styles.css
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.RazorTargetAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CopyComplete
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.genruntimeconfig.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\CopyOfStudentWebApI\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfoInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CoreCompileInputs.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.exe
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.deps.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.dev.json
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\ref\StudentWebApI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.Manifest.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.xml
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\scopedcss\bundle\StudentWebApI.styles.css
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.RazorTargetAssemblyInfo.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CopyComplete
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.genruntimeconfig.cache
+C:\Users\NITTIN\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csprojAssemblyReference.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.Development.json
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\appsettings.json
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.exe
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.deps.json
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.json
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.runtimeconfig.dev.json
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\ref\StudentWebApI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\StudentWebApI.pdb
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Humanizer.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfoInputs.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.AssemblyInfo.cs
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CoreCompileInputs.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cs
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.Manifest.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\staticwebassets\StudentWebApI.StaticWebAssets.xml
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\scopedcss\bundle\StudentWebApI.styles.css
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.RazorTargetAssemblyInfo.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csproj.CopyComplete
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\ref\StudentWebApI.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.pdb
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.genruntimeconfig.cache
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.AspNetCore.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\AutoMapper.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Desktop\CS Soft2022\New folder\JWT-Authentication\StudentWebApI\StudentWebApI\obj\Debug\net5.0\StudentWebApI.csprojAssemblyReference.cache
