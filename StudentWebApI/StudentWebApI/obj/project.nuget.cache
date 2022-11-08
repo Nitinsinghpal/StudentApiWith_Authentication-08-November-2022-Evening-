@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iQeTyC3otL9TFQp8NIb7hDqLZkJvHx7A4tFpMFiH8fYrBv6AxGIKnGbVnCLlgf/I4vEx/QLDMcRNRolHezYFIw==",
+  "dgSpecHash": "YdGDETT8OHkCquxsAiCyWKKr1PN+ctMon96QGkX53G/MmyXgzQy5pApXS+fVbmA9LU+sRX6fsSYXAxi7rm2aYQ==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CS Soft2022\\New folder\\JWT-Authentication\\StudentWebApI\\StudentWebApI\\StudentWebApI.csproj",
+  "projectFilePath": "E:\\Desktop\\CS Soft2022\\JWT-Authentication\\New folder\\StudentWebApI\\StudentWebApI\\StudentWebApI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NITTIN\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\NITTIN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

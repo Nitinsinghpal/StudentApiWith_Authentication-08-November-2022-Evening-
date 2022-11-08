@@ -6313,11 +6313,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\CS Soft2022\\New folder\\JWT-Authentication\\StudentWebApI\\StudentWebApI\\StudentWebApI.csproj",
+      "projectUniqueName": "E:\\Desktop\\CS Soft2022\\JWT-Authentication\\New folder\\StudentWebApI\\StudentWebApI\\StudentWebApI.csproj",
       "projectName": "StudentWebApI",
-      "projectPath": "E:\\Desktop\\CS Soft2022\\New folder\\JWT-Authentication\\StudentWebApI\\StudentWebApI\\StudentWebApI.csproj",
+      "projectPath": "E:\\Desktop\\CS Soft2022\\JWT-Authentication\\New folder\\StudentWebApI\\StudentWebApI\\StudentWebApI.csproj",
       "packagesPath": "C:\\Users\\NITTIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\CS Soft2022\\New folder\\JWT-Authentication\\StudentWebApI\\StudentWebApI\\obj\\",
+      "outputPath": "E:\\Desktop\\CS Soft2022\\JWT-Authentication\\New folder\\StudentWebApI\\StudentWebApI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITTIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
